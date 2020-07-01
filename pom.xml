@@ -16,7 +16,7 @@
         <junit.version>4.12</junit.version>
         <hibernate-version>5.3.6.Final</hibernate-version>
         <springfox.version>2.4.0</springfox.version>
-        <mysql-connector-java.version>5.1.47</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <aws-java-sdk.version>1.11.290</aws-java-sdk.version>
     </properties>
 
